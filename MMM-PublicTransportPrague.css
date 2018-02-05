@@ -8,3 +8,25 @@
  * Custom here your css module
  *
  */
+
+.MMM-PublicTransportPrague h2 {
+  font-size: 1.2em;
+  border-bottom: 1px solid;
+}
+
+.MMM-PublicTransportPrague h3 {
+  font-size: 1em;
+  -webkit-margin-after: 0.1em;
+}
+
+.MMM-PublicTransportPrague {
+  font-size: 0.8em;
+}
+
+.MMM-PublicTransportPrague .route {
+  padding-left: 1em;
+}
+
+.MMM-PublicTransportPrague .time {
+  font-weight: bold;
+}
