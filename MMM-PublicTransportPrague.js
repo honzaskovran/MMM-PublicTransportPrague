@@ -11,8 +11,8 @@ Module.register("MMM-PublicTransportPrague", {
   defaults: {
     updateInterval: 60000,
     retryDelay: 5000,
-    from: 'Černý Most',
-    to: 'Chodov'
+    from: 'Chodov',
+    to: 'Palmovka'
   },
 
   requiresVersion: "2.1.0", // Required version of MagicMirror
