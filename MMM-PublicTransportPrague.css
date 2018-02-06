@@ -28,5 +28,8 @@
 }
 
 .MMM-PublicTransportPrague .time {
+  display: inline-block;
   font-weight: bold;
+  width: 50px;
+  text-align: right;
 }
